@@ -45,7 +45,7 @@ id: CMU15_445_Project0
 
 **然后会去掉前b个bits位然后再重头取，依次往复**
 
-> ![image-20250607152414152](/home/dragonos/Study/blog/source/_posts/CS/CMU15-445/assets/image-20250607152414152.png)
+> ![image-20250607152414152](./CMU15-445_Project0.assets/image-20250607152414152.png)
 >
 > Another value in a set may have p = 2 in register 3, hence 2 will be stored in register 3.
 > 一组中的另一个值可能在寄存器 3 中具有 p = 2，因此 2 将存储在寄存器 3 中。
